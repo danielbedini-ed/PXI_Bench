@@ -11,11 +11,14 @@
 		<Item Name="Error To Text.vi" Type="VI" URL="../Error/Error To Text.vi"/>
 	</Item>
 	<Item Name="Logging" Type="Folder">
-		<Item Name="Log Writer.vi" Type="VI" URL="../Logging/Log Writer.vi"/>
+		<Item Name="Log Read.vi" Type="VI" URL="../Logging/Log Read.vi"/>
+		<Item Name="Log Save.vi" Type="VI" URL="../Logging/Log Save.vi"/>
+		<Item Name="Log Write.vi" Type="VI" URL="../Logging/Log Write.vi"/>
 	</Item>
 	<Item Name="Paths" Type="Folder">
 		<Item Name="Items" Type="Folder">
 			<Item Name="Custom Error Cfg Path.vi" Type="VI" URL="../Paths/Items/Custom Error Cfg Path.vi"/>
+			<Item Name="Temp Path.vi" Type="VI" URL="../Paths/Items/Temp Path.vi"/>
 		</Item>
 		<Item Name="Path Manager.vi" Type="VI" URL="../Paths/Path Manager.vi"/>
 	</Item>
